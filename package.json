@@ -43,7 +43,7 @@
 		"@replit/codemirror-indentation-markers": "6.5.3",
 		"ansi_up": "6.0.6",
 		"argon2": "0.41.1",
-		"better-sqlite3": "11.7.0",
+		"better-sqlite3": "12.11.1",
 		"croner": "9.1.0",
 		"cronstrue": "3.9.0",
 		"devalue": "5.8.1",
@@ -118,5 +118,8 @@
 		"@lezer/common": "1.5.0",
 		"@lezer/highlight": "1.2.3",
 		"devalue": "5.8.1"
+	},
+	"allowScripts": {
+		"better-sqlite3@12.11.1": true
 	}
 }
